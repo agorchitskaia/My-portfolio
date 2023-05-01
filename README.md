@@ -147,3 +147,6 @@
  <p> Итог №7<p> Получили суммарную прибыль и рассчитали, на сколько она изменится, если ARPU увеличится на 10%.
  
  > <a href="https://docs.google.com/spreadsheets/d/1pokn_hct4ghc0yCCZlUFq6cE9wQ0R5Ty/edit?usp=sharing&ouid=111738084716180095894&rtpof=true&sd=true">Ссылка на проект</a>
+
+  ## Контактная информация
+- Email: a.ggorchitskaya@gmail.com
